@@ -1,1 +1,2 @@
 # Viral-Advertising
+This C# program calculates the cumulative likes of a viral advertising campaign over `n` days. The `viralAdvertising` function starts with 5 people receiving the ad each day, adds half of them as likes to the total, and then shares the ad to three times the number of new likes for the next day. The `Main` method reads the number of days, calls the function, and outputs the total likes.
